@@ -59,6 +59,12 @@ h3 {
 	font-size: 24px;
 }
 
+header h1, header h2 {
+	background: black;
+        display: inline-block;
+}
+
+
 img {
 	border-radius: 3px;
 	max-width: 100%;
