@@ -1,0 +1,49 @@
+# Dependencies
+markdown:	kramdown
+highlighter:	pygments
+
+# Permalinks
+permalink:	/blog/:title
+
+# Setup
+title:		Thinny
+tagline:	'blog'
+description:	'My personal blog.'
+url:		http://camporez.com
+commentsystem:	google
+disqus:		example
+
+author:
+  name:		'Stu'
+  url:		http://stublunt.blogspot.com/2011/06/peloton-bike-mag.html
+
+paginate:	5
+
+# Custom vars
+icon:		/assets/images/icon.png
+cover:		/assets/images/cover.jpg
+
+social:
+  - icon:	twitter
+    url:	https://twitter.com/discodirtbike
+    desc:	Follow me on twitter
+
+  - icon:	feed
+    url:	http://discodirt.bike/atom.xml
+    desc:	Subscribe to my feed
+    
+menu:
+  - title:	Home
+    url:	/
+    
+  - title:	About
+    url:	/about
+    
+copyright:
+  author:	Stu
+  url:		http://discodirt.bike
+  type_title:	Some rights reserved
+  type_url:	http://creativecommons.org/licenses/by-nc/2.5
+
+# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
+google_analytics:
